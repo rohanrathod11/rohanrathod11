@@ -12,7 +12,7 @@ Personal site: [rohanrathod.ai](https://rohanrathod.ai) · Email: r@solistic.fin
 
 **Polaris** ([tradepolaris.com](https://tradepolaris.com)) — a financial-AI research platform: ask the market in plain English and get charts, data, and cited sources; build strategies declaratively; and backtest them honestly with walk-forward analysis and overfitting detection — across 30,000+ tickers, six asset classes, and ~20 years of survivorship-free data. Two AI systems anchor it: *Vega*, an AI research analyst, and *Aegis*, a portfolio risk engine (VaR, stress, factor decomposition, plain-English risk reads).
 
-**Solistic Finance** (codename *Cubit*) — a protocol for issuing and trading synthetic exposure to real-world assets such as treasuries, commodities, and structured credit, paired with an AI wealth advisor that personalizes portfolio construction and rebalancing across these markets. On-chain settlement with institutional-grade compliance.
+**Solistic Finance** (codename *Cubit*) — a protocol for issuing and trading synthetic exposure to real-world assets such as treasuries, commodities, and structured credit. On-chain settlement with institutional-grade compliance.
 
 ## Background
 
