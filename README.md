@@ -14,11 +14,6 @@ Personal site: [rohanrathod.ai](https://rohanrathod.ai) · Email: r@solistic.fin
 
 **Solistic Finance** (codename *Cubit*) — a protocol for issuing and trading synthetic exposure to real-world assets such as treasuries, commodities, and structured credit, paired with an AI wealth advisor that personalizes portfolio construction and rebalancing across these markets. On-chain settlement with institutional-grade compliance.
 
-Alongside Polaris and Solistic:
-
-- **Aureve** — a premium dating app built around *Aria*, an AI matchmaker. It treats attention as a market: it filters toxic flow, mitigates adverse selection, and routes high-effort users to each other.
-- **Markov** ([markov.in](https://markov.in)) — a live signal feed for Indian equities: a SEBI-registered, multi-strategy quantitative stack running cross-sectionally across the full NSE universe.
-
 ## Background
 
 - **2026 → present** — Founder, Polaris
