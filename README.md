@@ -39,20 +39,7 @@ Alongside Polaris and Solistic:
 
 ## Writing
 
-Long-form essays at [rohanrathod.ai/writing](https://rohanrathod.ai/writing):
-
-- [**Same Stock, Three Prices**](https://rohanrathod.ai/writing/same-stock-three-prices) — DTC's tokenized settlement went live, the SEC's wrapper exemption stalled, and Hyperliquid equity perps built the third market without asking. The same share, three prices — and the basis between them measures the wrapper.
-- [**The Backtest Is the Easy Part: Why I'm Building Polaris**](https://rohanrathod.ai/writing/the-backtest-is-the-easy-part) — AI made the data and the query free; the discipline of not overfitting yourself is untouched. The Deflated Sharpe math, and the tool built around the honest number.
-- [**You Can't Design an Insider-Proof Prediction Market**](https://rohanrathod.ai/writing/insider-proof-prediction-markets) — a contract that resolves on a discrete event is the purest adverse-selection machine in markets. Glosten-Milgrom on a $1 payoff, and the accuracy–liquidity–integrity trilemma.
-- [**The Factor Zoo Doesn't Travel**](https://rohanrathod.ai/writing/factor-investing-indian-equities) — momentum, low-vol, and quality on the NSE: the STT floor, float-adjusted impact, and why slow, low-turnover factors win in high-cost markets.
-- [**Tokenized Stocks Without the Issuer's Permission**](https://rohanrathod.ai/writing/sec-tokenized-stocks-exemption) — the SEC's innovation exemption lets crypto platforms wrap US public equities into on-chain tokens without issuer consent. The headline reads as deregulation; the mechanism is the depository-receipt model from 1927, on a new ledger.
-- [**Pre-Launch Perps Are Float Markets, Not Token Markets**](https://rohanrathod.ai/writing/pre-launch-perps-float-markets) — why pre-launch perp prices are about float clearing and missing arbitrage, not verdicts on private rounds.
-- [**Jane Street, Bank Nifty, and the Math of Expiry-Day Manipulation**](https://rohanrathod.ai/writing/jane-street-india-options) — SEBI's ₹36,500 crore interim order, the cash-and-carry-against-options playbook, the gamma math, and why settlement design beats enforcement.
-- [**Why On-Chain Options Are Still Thin — And the Liquidity Model That Fixes It**](https://rohanrathod.ai/writing/on-chain-options-liquidity) — Loss Versus Rebalancing for on-chain options and a unified liquidity model with endogenous implied volatility, backtested on Deribit BTC chains.
-- [**The Bid-Ask Spread of Attention**](https://rohanrathod.ai/writing/bid-ask-spread-of-attention) — dating apps as attention markets designed without a bid-ask spread, and the case for an AI matchmaker as a quote engine.
-- [**The Race to Put Wall Street On-Chain**](https://rohanrathod.ai/writing/wall-street-on-chain) — tokenized equities, primary issuance and redemption, and the unified financial layer thesis.
-
-Forthcoming: *A Unified Derivatives Liquidity Model for On-Chain Options* — reducing adverse selection under oracle latency via inventory-conditioned volatility.
+Long-form essays on market microstructure, tokenization, and quantitative research at [rohanrathod.ai/writing](https://rohanrathod.ai/writing).
 
 ## Contact
 
