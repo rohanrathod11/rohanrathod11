@@ -36,6 +36,10 @@ Personal site: [rohanrathod.ai](https://rohanrathod.ai) · Email: r@tradepolaris
 
 Long-form essays on market microstructure, tokenization, and quantitative research at [rohanrathod.ai/writing](https://rohanrathod.ai/writing).
 
+## GitHub Activity
+
+![Rohan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohanrathod11&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&area=true&hide_border=true)
+
 ## Contact
 
 - Email: r@tradepolaris.com
