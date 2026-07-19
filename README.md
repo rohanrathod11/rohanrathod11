@@ -47,6 +47,7 @@ Long-form essays on market microstructure, tokenization, and quantitative resear
 - X: [@ro_lend](https://x.com/ro_lend)
 - LinkedIn: [/in/rohan-rathod](https://uk.linkedin.com/in/rohan-rathod-7a2306225)
 - Crunchbase: [rohan-rathod](https://www.crunchbase.com/person/rohan-rathod-7d26) · [Polaris](https://www.crunchbase.com/organization/polaris-804e)
+- F6S: [rohan-rathod](https://www.f6s.com/member/rohan-rathod)
 - Polaris: [@trade_polaris](https://x.com/trade_polaris) · [LinkedIn](https://www.linkedin.com/company/136045521/)
 - Press: [full record](https://rohanrathod.ai/press) · [Analytics Insight interview](https://www.analyticsinsight.net/blockchain/the-race-to-put-wall-street-on-chain-a-conversation-with-solistics-rohan-rathod) · [TEDx talk](https://www.youtube.com/watch?v=YcUeP4E3RLA)
 
