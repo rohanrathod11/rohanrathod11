@@ -29,7 +29,6 @@ Personal site: [rohanrathod.ai](https://rohanrathod.ai) · Email: r@tradepolaris
 - **Quant research** — vol surfaces, options pricing, stat-arb, time-series modelling, signal research, backtesting infrastructure
 - **ML systems** — sequence models for tick data, reinforcement learning for execution, toxic-flow classifiers (PyTorch, JAX, XGBoost)
 - **Engineering** — production trading systems and on-chain infrastructure in Python, Rust, TypeScript, and Solidity; low-latency execution, distributed pipelines, exchange connectivity
-- **DeFi protocols** — synthetic assets, oracle design, tokenization standards (ERC-3643 / ERC-1400), custody integrations
 - **Market microstructure** — spread and inventory models, adverse-selection mitigation, cross-venue arbitrage, on-chain market making across AMMs and perpetual DEXs
 
 ## Writing
