@@ -37,7 +37,7 @@ Long-form essays on market microstructure, tokenization, and quantitative resear
 
 ## GitHub Activity
 
-![Rohan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rohanrathod11&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&area=true&hide_border=true)
+![Rohan's GitHub activity graph](https://github-activity-chart.vercel.app/graph?username=rohanrathod11&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&area=true&hide_border=true)
 
 ## Contact
 
