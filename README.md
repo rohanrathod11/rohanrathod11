@@ -35,10 +35,6 @@ Around them sits the rest of the platform: a declarative Strategy Builder, walk-
 
 Long-form essays on market microstructure, tokenization, and quantitative research at [rohanrathod.ai/writing](https://rohanrathod.ai/writing).
 
-## GitHub Activity
-
-![Rohan's GitHub activity graph](https://github-activity-chart.vercel.app/graph?username=rohanrathod11&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&area=true&hide_border=true)
-
 ## Contact
 
 - Email: r@tradepolaris.com
