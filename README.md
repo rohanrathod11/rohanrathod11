@@ -6,7 +6,7 @@ A decade across quantitative trading, fintech, and DeFi. Currently founder of [P
 
 IIT Bombay, Computer Science & Engineering.
 
-Personal site: [rohanrathod.ai](https://rohanrathod.ai) · Email: r@tradepolaris.com · X: [@ro_lend](https://x.com/ro_lend)
+Personal site: [rohanrathod.ai](https://rohanrathod.ai) · X: [@ro_lend](https://x.com/ro_lend)
 
 ## What I'm building
 
@@ -37,7 +37,6 @@ Long-form essays on market microstructure, tokenization, and quantitative resear
 
 ## Contact
 
-- Email: r@tradepolaris.com
 - Web: [rohanrathod.ai](https://rohanrathod.ai)
 - X: [@ro_lend](https://x.com/ro_lend)
 - LinkedIn: [/in/rohan-rathod](https://uk.linkedin.com/in/rohan-rathod-7a2306225)
