@@ -17,7 +17,7 @@ Around them sits the rest of the platform: a declarative Strategy Builder, walk-
 ## Background
 
 - **2026 → present**: Founder, Polaris
-- **2024 → present**: Co-founder, Solistic Finance (Cubit)
+- **2024 – Aug 2026**: Co-founder, Solistic Finance (Cubit)
 - **2020 – 2024**: Independent market maker across crypto spot, perpetuals, and options; generated $20B+ in volume across venues
 - **2021 – 2022**: Chief Product Officer, Scallop Group; scaled the digital bank to 100,000 users in 60 days
 - **2017 – 2019**: Founder, BCF Fund; started with $4.5M AUM and grew it to $20M
