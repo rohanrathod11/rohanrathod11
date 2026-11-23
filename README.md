@@ -8,7 +8,7 @@ teams move from an idea to a deployed strategy.
 
 IIT Bombay · Computer Science & Engineering.
 
-[Website](https://rohanrathod.ai) · [X](https://x.com/ro_lend) · [LinkedIn](https://www.linkedin.com/in/rohanrathod11/) · [Press](https://rohanrathod.ai/press)
+[Website](https://rohanrathod.ai) · [X](https://x.com/ro_lend) · [LinkedIn](https://www.linkedin.com/in/rohanrathod11/)
 
 ## now_building
 
