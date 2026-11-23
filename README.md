@@ -31,26 +31,6 @@ moves into use.
 
 [tradepolaris.com →](https://tradepolaris.com)
 
-## career.log
-
-- **2026 → present** — Founder, TradePolaris.
-- **2024–2026** — Co-founder, Solistic Finance [Cubit]. Synthetic asset infrastructure for tokenized real-world assets.
-- **2020–2024** — Independent market maker. Crypto spot, perpetuals, and options; $20B+ in volume across venues.
-- **2021–2022** — CPO, Scallop Group. Digital bank scaled to 100,000 customers in 60 days.
-- **2017–2019** — Founder, BCF Fund. Grew AUM from $4.5M to $20M.
-- **2015–2017** — Co-founder, Cefy Financial. Credit scoring adopted by four banks.
-
-Also built [Markov](https://markov.in), a quantitative signal feed for Indian equities.
-
-## stack
-
-- **Research:** volatility surfaces, options pricing, statistical arbitrage, systematic strategies, backtesting.
-- **ML:** sequence models, reinforcement learning for execution, toxic-flow classification.
-- **Engineering:** low-latency trading systems, exchange connectivity, data pipelines, on-chain infrastructure.
-- **Microstructure:** spread and inventory models, adverse selection, cross-venue market making.
-
-Python · Rust · TypeScript · Solidity · PyTorch · JAX · XGBoost
-
 ## selected writing
 
 Portfolio risk, systematic research, derivatives, and market structure.
